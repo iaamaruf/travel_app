@@ -80,7 +80,7 @@ class _SignInScreenState extends State<SignInScreen> {
                                   "Sign In Now",
                                   style: TextStyle(
                                       fontWeight: FontWeight.bold,
-                                      fontSize: 25,
+                                      fontSize: 26,
                                     fontFamily: 'Quicksand',
                                   ),
                                 ),
